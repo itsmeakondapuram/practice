@@ -1,1 +1,2 @@
 Hello this is the new file in the newbranch
+This the file edited after the merging
